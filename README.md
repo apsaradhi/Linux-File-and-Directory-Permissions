@@ -1,6 +1,6 @@
 # Linux-File-and-Directory-Permissions
 
-# Linux File and Directory Permissions
+
 
 ## Objective
 
